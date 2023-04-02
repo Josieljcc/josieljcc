@@ -116,5 +116,13 @@
 <br/>
 
 
+## Profile stats 📊
+
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats-josieljcc.vercel.app/api?username=josieljcc&theme=radical&title_color=8E2DE2&text_color=fff&layout=compact" alt="josieljcc :: Top Langs" />
+  <img src="https://github-readme-stats-josieljcc.vercel.app/api/top-langs/?username=josieljcc&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="josieljcc :: Top Langs" />
+</div>
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&fontSize=90" />
